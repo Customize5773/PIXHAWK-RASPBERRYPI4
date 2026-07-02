@@ -1,0 +1,2 @@
+# Dependency untuk contoh kontrol/telemetry ROV
+pymavlink>=2.4.37
